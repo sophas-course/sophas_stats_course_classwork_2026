@@ -2,7 +2,7 @@
 
 This is the public classwork repository for the **SOPHAS Statistics Course**. It holds the material we work on together during the live sessions: code, notebooks, scratch work, and exercises committed week by week.
 
-The course notes and full curriculum are maintained separately. For the course itself, see [SOPHAS](https://sophas.com.au/), and see the course [LMS](https://learn.sophas.net/login/index.php) (learning management system, locked) available to students, where you can find lecture materials, lecture videos, and exercises.
+The course notes and full curriculum are maintained separately. For the course itself, see [SOPHAS](https://sophas.net/), and see the course [LMS](https://learn.sophas.net/login/index.php) (learning management system, locked) available to students, where you can find lecture materials, lecture videos, and exercises.
 
 ## How this repo is organized
 
