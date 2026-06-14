@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# Julia
+Manifest.toml
+/.julia/
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+
+# Quarto / rendered output
+/.quarto/
+_site/
+_freeze/
+/site_libs/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS / misc
+Thumbs.db
+*.log
