@@ -24,5 +24,3 @@ Work is grouped into weekly folders (`week_01`, `week_02`, ...). Each week ends 
 | 10 | 2026-08-16 | | |
 | 11 | 2026-08-23 | | |
 | 12 | 2026-08-30 | | |
-
-We are currently in **Module 1** (week 1).
