@@ -6,7 +6,7 @@ The course notes and full curriculum are maintained separately. For the course i
 
 ## How this repo is organized
 
-Work is grouped into weekly folders (`week_01`, `week_02`, ...). Each week ends on a Sunday. The course runs through 10 modules, with roughly two weeks per module.
+Work is grouped into weekly folders (`week_01`, `week_02`, ...). Each week ends on a Sunday. The course runs through 10 modules, with roughly two weeks per module. After a student meetup, we will commit and push the work from that meetup into these folders.
 
 ## Weekly schedule
 
